@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/RegisterFile.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/Cale.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/Lab6.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/SSD.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/UnitateMemorie.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/UnitateDeExecutie.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/MPG.vhd"
+vhdl xil_defaultlib  "../../../test_env.srcs/sources_1/new/test_env.vhd"
+
+# Do not sort compile order
+nosort

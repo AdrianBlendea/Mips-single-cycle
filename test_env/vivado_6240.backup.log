@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Tue May 17 15:14:51 2022
+# Process ID: 6240
+# Current directory: C:/Users/adria/Documents/sem2/ac/mips/test_env
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent344 C:\Users\adria\Documents\sem2\ac\mips\test_env\test_env.xpr
+# Log file: C:/Users/adria/Documents/sem2/ac/mips/test_env/vivado.log
+# Journal file: C:/Users/adria/Documents/sem2/ac/mips/test_env\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/adria/Documents/sem2/ac/mips/test_env/test_env.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/adria/test_env' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.4/data/ip'.
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue May 17 15:35:06 2022...

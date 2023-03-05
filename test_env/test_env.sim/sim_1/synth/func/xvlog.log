@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/adria/test_env/test_env.sim/sim_1/synth/func/test_env_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Cale
+INFO: [VRFC 10-311] analyzing module InstructionDecode
+INFO: [VRFC 10-311] analyzing module MPG
+INFO: [VRFC 10-311] analyzing module MPG_0
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-311] analyzing module SSD
+INFO: [VRFC 10-311] analyzing module UnitateDeExecutie
+INFO: [VRFC 10-311] analyzing module UnitateMemorie
+INFO: [VRFC 10-311] analyzing module test_env
+INFO: [VRFC 10-311] analyzing module glbl

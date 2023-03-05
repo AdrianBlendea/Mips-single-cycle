@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Dec 14 18:11:30 2022
+# Process ID: 8468
+# Current directory: C:/Users/adria/Documents/sem2/ac/mips/test_env
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15488 C:\Users\adria\Documents\sem2\ac\mips\test_env\test_env.xpr
+# Log file: C:/Users/adria/Documents/sem2/ac/mips/test_env/vivado.log
+# Journal file: C:/Users/adria/Documents/sem2/ac/mips/test_env\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/adria/Documents/sem2/ac/mips/test_env/test_env.xpr
+close [ open C:/Users/adria/Documents/sem2/ac/mips/test_env/test_env.srcs/sources_1/new/test_env.vhd w ]
+add_files C:/Users/adria/Documents/sem2/ac/mips/test_env/test_env.srcs/sources_1/new/test_env.vhd
